@@ -42,7 +42,6 @@
         "entity_action_lost": {
             "type": "origins:revoke_power",
             "power": "origins:carnivore",
-            "source": "*.*"
         }
     }
 }
